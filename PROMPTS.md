@@ -1,7 +1,5 @@
 # Prompt documentation - ClinicFlow AI
 
-Edit this file so the wording is yours before you submit. The order below is the order the project was built.
-
 ## Part A. Prompts used to build the project (with an AI assistant)
 
 **Prompt 1: choose the idea**
