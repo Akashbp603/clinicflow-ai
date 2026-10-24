@@ -26,7 +26,7 @@ All patients in this project are fictional. The project drafts messages only. It
 
 ## Live web app
 
-https://claude.ai/artifact/QVFBWwQ169ojcj78RPdkxQ (set to "anyone with the link can view" before sharing)
+https://akashbp603.github.io/clinicflow-ai/ (set to "anyone with the link can view" before sharing)
 
 ## Run the web app locally
 
