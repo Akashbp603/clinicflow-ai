@@ -1,0 +1,9 @@
+patient_name,phone,email,appointment_datetime,doctor,appointment_type,previous_no_shows,first_visit,language,patient_instructions,staff_note
+Ravi Kumar,+91 90000 00001,ravi@example.com,2026-11-02 10:30,Dr. Mehta,Diabetes follow-up,0,no,English,Fasting blood test needed. No food after 10 pm.,
+Anita Sharma,+91 90000 00002,anita@example.com,2026-11-02 11:15,Dr. Rao,General check-up,2,no,English,,Prefers calls before 10 am
+Mohammed Ali,+91 90000 00003,ali@example.com,2026-11-03 09:00,Dr. Mehta,Cardiology review,0,no,Hindi,Please bring your previous ECG reports.,
+Sneha Patil,+91 90000 00004,sneha@example.com,2026-11-03 16:45,Dr. Iyer,Dental cleaning,1,no,English,,
+Kiran Gowda,+91 90000 00005,kiran@example.com,2026-11-04 12:00,Dr. Rao,Child vaccination,0,yes,Kannada,Please bring the vaccination card.,
+Priya Nair,+91 90000 00006,priya@example.com,2026-11-04 14:30,Dr. Iyer,Root canal,3,no,English,Please arrive 10 minutes early.,Anxious about the procedure
+Arjun Reddy,+91 90000 00007,arjun@example.com,2026-11-05 15:00,Dr. Mehta,General check-up,0,yes,Telugu,,
+Lakshmi Venkat,+91 90000 00008,lakshmi@example.com,2026-11-05 17:30,Dr. Rao,Skin consultation,1,no,Tamil,,
